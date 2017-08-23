@@ -1,0 +1,323 @@
+#daohanglan{
+	width: 100%;
+	height: 1rem;
+	background-color: #1FE0B3;
+	padding: 0 .24rem;
+
+}
+
+.box{
+	width: 1.3rem;
+	height: .8rem;
+	margin: 0 auto;
+	margin-top: 0;	
+
+
+}
+.box1{
+	width: 5.54rem;
+	height: .51rem;
+	background-color: #B6F4E6;
+	margin: 0 auto;
+	
+}
+.banner{
+	width: 100%;
+	height: 3.03rem;
+	background-color: pink;
+	margin-top: 0.13rem;
+	position: relative;
+}
+.banner .biaoti{
+	font-size: .3rem;
+	color: #ffff;
+	font-family: : "苹方";
+	position: absolute;
+	top: .4rem;
+	right: .24rem;
+
+}
+.biaoti2{
+	top: 0.92rem;
+	right: .24rem;
+	position: absolute;
+	font-size: .2rem;
+}
+.lunbo{
+	border-radius: 50%;
+	width: .32rem;
+	height: .32rem;
+	background-color: #1FE0B3;
+	position: absolute;
+	left: 3.5rem;
+	bottom: .87rem;
+}
+.shuzi{
+	font-size: .13rem;
+	color: #ffff;
+	position: absolute;
+	left: 3.6rem;
+	bottom: .87rem;
+}
+.xuanxiangka{
+	width: 7.2rem;
+	height: 1.43rem;
+/* 	background-color: pink; */
+	margin: 0 auto;
+	margin-top: .42rem;
+}
+.dahezi{
+	width: .98rem;
+	height: 1.43rem;
+	/* background: red; */
+	margin-left: 1.18rem;
+	float: left;
+	text-align: center;
+	
+}
+.tuijian{
+	width: .97rem;
+	height: .97rem;
+	background-color: #1FE0B3;
+	border-radius: 50%;
+	
+	float: left;
+	text-align: center;
+	line-height: .87rem;
+}
+.tuijian11{
+	font-size: .32rem;
+	font-family: "苹方";
+	color: #A2A2A2;
+	display: block;
+}
+.zhuanti11{
+	font-size: .32rem;
+	font-family: "苹方";
+	color: #A2A2A2;
+	display: block;
+}
+.mudidi11{
+	font-size: .32rem;
+	font-family: "苹方";
+	color: #A2A2A2;
+	display: block;
+}	
+.zhuanti{
+	width: .97rem;
+	height: .97rem;
+	background-color: #1FE0B3;
+	border-radius: 50%;
+	
+	float: left;
+	text-align: center;
+	line-height: .77rem;
+}
+.mudidi{
+	width: .97rem;
+	height: .97rem;
+	background-color: #1FE0B3;
+	border-radius: 50%;
+	
+	float: left;
+	text-align: center;
+	line-height: .77rem;
+	
+}
+.tuijian span{
+	font-size: .7rem;
+	color: #fff;
+	line-height: .97rem;
+	margin-top: .2rem;
+}
+.zhuanti span{
+	font-size: .6rem;
+	color: #fff;
+	line-height: .97rem;
+	margin-top: .2rem;
+}
+.mudidi span{
+	font-size: .65rem;
+	color: #fff;
+	line-height: .97rem;
+	margin-top: .2rem;
+}
+.rmbiaoti{
+	width: 2.07rem;
+	height: .45rem;
+	background-color: green;
+	margin-top: .58rem;
+	margin-left: .24rem;
+}
+.tupian{
+	width: 5.28rem;
+	height: 3.24rem;
+	/* background-color: seagreen; */
+	margin-top: .36rem;
+	margin-left: .24rem;
+
+}
+.xinxilan{
+	width: 2.51rem;
+	height: 3.19rem;
+	/* background-color: blue; */
+	float: left;
+
+}
+.tp{
+	width: 2.39rem;
+	height: 2.39rem;
+	background-color: red;
+	border-radius: .1rem;
+	float: left;
+	
+}
+.yingwen{
+	font-size: .16rem;
+	color: #000;
+	display: block;
+	font-family: "San Francisco display";
+
+}
+.yingwen123{
+	font-size: .16rem;
+	color: #000;
+	display: block;
+	font-family: "San Francisco display";
+}
+.zhongwen{
+	font-size: .22rem;
+	color: #000;
+	display: block;
+	margin-top: .12rem;
+	font-family: "苹方";
+}
+.dizhonghai{
+	width: 2.51rem;
+	height: 3.19rem;
+	/* background-color: blue; */
+	float: left;
+	margin-left: .26rem;
+}
+.tp11{
+	width: 2.39rem;
+	height: 2.39rem;
+	background-color: red;
+	border-radius: .1rem;
+	float: left;
+}
+.rementuijian{
+	width: 2rem;
+	height: .48rem;
+	background-color: pink;
+	margin-left: .24rem;
+	margin-top: .5rem;
+
+}
+.chuxuetu{
+	height: 11.14rem;
+	width: 7rem;
+	/* background-color: pink; */
+	margin-top: .35rem;
+	margin-left: .24rem;
+}
+.tp1{
+	width: 7rem;
+	height: 3.55rem;
+	background-color: red;
+	position: relative;
+}
+.diwen{
+	width: 7rem;
+	height: 1.2rem;
+	background-color: #607077;
+	display: block;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0, 0, 0, 0.5);
+
+}
+.touxiang{
+	width: .8rem;
+	height: .8rem;
+	background-color: red;
+	border-radius: 50%;
+	position: absolute;
+	bottom: .76rem;
+	left: .21rem;
+	overflow: hidden;
+}
+.bt{
+	position: absolute;
+	bottom: .75rem;
+	font-size: .3rem;
+	font-family: "苹方";
+	color: #fff;
+	left: 1.1rem;
+
+}
+.bt1{
+	position: absolute;
+	font-size: .16rem;
+	color: #fff;
+	left: 1.1rem;
+	bottom: .5rem;
+}
+.bt2{
+	position: absolute;
+	font-size: .16rem;
+	color: #fff;
+	left: 1.1rem;
+	bottom: .21rem;
+	
+
+}
+.you1{
+	width: .2rem;
+	height: .2rem;
+	background-color: #A1FFFF;
+	border-radius: 50%;
+	position: absolute;
+	right: .84rem;
+	bottom: .28rem;
+}
+.shuz1{
+	font-size: .16rem;
+	color: #fff;
+	position: absolute;
+	right: .25rem;
+	bottom: .25rem;
+	font-family: "San Francisco display";
+}
+.you2{
+	right: 1.71rem;
+	background-color: yellow;
+
+}
+.shuz2{
+	right: 1.1rem;
+}
+.you3{
+	right: 2.64rem;
+	background-color: #26CEA7;
+}
+.shuz3{
+	right: 2.06rem;
+}
+.tp22{
+	margin-top: .1rem;
+}
+.tp33{
+	margin-top: .1rem;
+}
+
+
+
+
+
+
+	
+
+
+
+
